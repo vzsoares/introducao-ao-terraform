@@ -1,0 +1,32 @@
+:root {
+  --secondary: #9161db;
+  --primary: #cf3387;
+  --tertiary: #ffa46e;
+  --text: #f7f7f7;
+  --gray-500: #2c2c2c;
+}
+
+.slidev-layout {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  span {
+    color: var(--text);
+  }
+
+  h1, h3 {
+    color: var(--secondary);
+  }
+
+  h4 {
+    color: var(--tertiary);
+  }
+}
+
+.slidev-page {
+  background-color: var(--gray-500);
+}
