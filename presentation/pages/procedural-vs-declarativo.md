@@ -4,9 +4,10 @@ transition: slide-up
 
 # Procedural vs Declarativo
 
+<Logo />
+
 Entenda com um exemplo de afirmações que possuem o mesmo fim.
 
-<Logo />
 
 <v-click>
 
@@ -38,6 +39,10 @@ Já na afirmação procedural, o agente é responsável por conhecer as condiç�
 
 <!--
 Exemplo do filho pegar as maçãs.
+
+Declarativa: ator se vira para resolver
+
+Procedural: ator só executa
 -->
 
 ---
@@ -62,7 +67,7 @@ Quando se trata de ferramentas declarativas, elas se responsabilizam por calcula
 
 #### Como?
 
-~~Estado~~ **State**; Isso sendo, as ferramentas terão em algum lugar salvo as informações necessárias para agir.
+~~Estado~~ **State**; Isso sendo, as ferramentas terão em algum lugar salvo as informações necessárias para agir. Além de saber como calcular o que fazer.
 
 > Tipicamente, quando feito em uma GPL, a implementação acaba sendo uma mistura de declarativo com procedural, simplesmente pela natureza das GPLs.
 

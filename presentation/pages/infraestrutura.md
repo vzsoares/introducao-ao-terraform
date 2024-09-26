@@ -24,11 +24,12 @@ Alagamento | Derrubar Café | O primo pegar | O HD estragar...
 </v-click>
 
 <!--
-// dps de passar por tudo
+// Dps te tudo
+
 Quando falamos de infraestrutura, falamos justamente 
 de como possibilitar que algo aconteça. 
 Através de medidas de diversas medidas de segurança,
-e equipamentos apropriados
+equipamentos e ambiente apropriados.
 -->
 
 ---
@@ -42,6 +43,8 @@ Para que fulano possa guardar essas fotos ele deve considerar esses, e muitos ou
 #### Podemos notar que:
 
 - Infraestrutura anda junto com segurança.
+  - ex: controle de acesso, estrutura fisica, manutenção dos equipamentos...
+  - E também segurança cibernética: envolvendo confidencialidade, integridade, disponibilidade e autenticidade.
 - Infraestrutura garante que algo aconteça sem detalhar o que.
   - Por exemplo: fulano quer guardar fotos, mas poderia ser outra coisa.
   > A Infraestrutura nesse caso serve para garantir um sistema de arquivos!
