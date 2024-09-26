@@ -30,3 +30,8 @@
 .slidev-page {
   background-color: var(--gray-500);
 }
+
+.contain {
+  object-fit: contain !important;
+  background-size: contain !important;
+}

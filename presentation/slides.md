@@ -12,7 +12,7 @@ fonts:
 colorSchema: dark
 
 themeConfig:
-  primary: '#4EA62F'
+  primary: '#9161db'
 
 class: text-center
 
@@ -46,6 +46,11 @@ hide: false
 
 ---
 src: ./pages/infraestrutura.md
+hide: false
+---
+
+---
+src: ./pages/arquitetura.md
 hide: false
 ---
 

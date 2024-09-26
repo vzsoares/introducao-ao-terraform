@@ -32,8 +32,6 @@ e equipamentos apropriados
 -->
 
 ---
-transition: slide-up
----
 
 # Infraestrutura
 
@@ -48,7 +46,3 @@ Para que fulano possa guardar essas fotos ele deve considerar esses, e muitos ou
   - Por exemplo: fulano quer guardar fotos, mas poderia ser outra coisa.
   > A Infraestrutura nesse caso serve para garantir um sistema de arquivos!
   - O _detalhamento_ seria um trabalho de **_arquitetura_**.
-
-<!-- falar de arquitetura -->
-<!-- mudar exemplo para bucket -->
-<!-- exemplo de procedural: controle de segredos, configuração -->
