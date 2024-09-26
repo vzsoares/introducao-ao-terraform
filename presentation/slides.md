@@ -45,6 +45,11 @@ hide: false
 ---
 
 ---
+src: ./pages/infraestrutura.md
+hide: false
+---
+
+---
 src: ./pages/iac.md
 hide: false
 ---

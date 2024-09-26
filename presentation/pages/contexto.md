@@ -25,5 +25,5 @@
 <!--
 Código é apenas texto; Você escreve, versiona e compartilha.
 
-Infraestrutura: São maquinas. Mas maquinas são muito mais do que o hardware. Temos que considerar o ambiente, a luz/energia, a manutenção, controle de acesso.
+Infraestrutura: São maquinas. Mas maquinas são muito mais do que o hardware. Temos que considerar o ambiente(muito calor), a luz/energia, a manutenção, controle de acesso.
 -->
