@@ -40,6 +40,11 @@ alvo: todos da area de ti
 -->
 
 ---
+src: ./pages/contexto.md
+hide: false
+---
+
+---
 src: ./pages/iac.md
 hide: false
 ---
