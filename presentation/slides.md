@@ -75,17 +75,12 @@ hide: false
 ---
 
 ---
-src: ./pages/terraform-vs-serverless.md
-hide: false
----
-
----
 src: ./pages/hcl-terraform.md
 hide: false
 ---
 
 ---
-src: ./pages/pratica.md
+src: ./pages/exemplo.md
 hide: false
 ---
 
@@ -94,19 +89,16 @@ layout: center
 class: text-center
 ---
 
-
-
-<!-- <div class="flex flex-col flex-items-center gap-10">
-</div> -->
-
-
 # **Fim**
 
 <div class="h-20 w-20 m-auto">
     <img src="/default.png" />
 </div>
+<br/>
+<p class="mini">By: Vinicius Zenha</p>
+<p class="mini pt-2">For: PodCodar</p>
 
-<div class="mt-20"></div>
+<div class="mt-18"></div>
 
 [Terraform](https://www.terraform.io/) · [Slidev](https://github.com/slidevjs/slidev)
 

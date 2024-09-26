@@ -24,8 +24,8 @@ transition: slide-up
 <Logo />
 
 O HCL é a linguagem de domínio específico utilizada pelo Terraform.
-
-Similar ao JSON e com interoperabilidade com ele.
+<p class="mini">Terraform também pode ser utilizado via javascript</p>
+Similar e transformavel a JSON.
 
 ````md magic-move {lines: true}
 ```tf

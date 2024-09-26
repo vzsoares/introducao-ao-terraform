@@ -114,6 +114,10 @@ Deve-se, portanto, salvar em uma solução remota, como o S3.<br>O Terraform cha
 
 </v-click>
 
+<!--
+por ser sensível normalmente não se versiona o state
+-->
+
 ---
 transition: slide-up
 ---
