@@ -15,8 +15,6 @@ Infraestrutura como Código
 - Possibilitar replicação
 - Evitar erros
 - Versionar alterações
-- **Idempotência**
-  > Independentemente de quantas vezes for executado, o resultado é o MESMO
 
 </v-click>
 

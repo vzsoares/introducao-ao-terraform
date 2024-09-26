@@ -85,6 +85,11 @@ hide: false
 ---
 
 ---
+src: ./pages/pratica.md
+hide: false
+---
+
+---
 layout: center
 class: text-center
 ---

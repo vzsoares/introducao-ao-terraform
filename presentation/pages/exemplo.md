@@ -25,7 +25,7 @@ block-beta
 #### Problema: 
 
 Fulano quer:
-- guardar seus arquivos.
+- Guardar seus arquivos.
 - Poder acessar a qualquer momento.
 - Não perder nunca.
 
@@ -45,6 +45,14 @@ transition: slide-up
 
 #### Arquitetura: 
 
+Se voce sabe o problema, pode buscar as soluções na internet facilmente.<br/>A propria aws tem excelentes recursos.
+
+<p class="mini">É total interesse do provedor de infra te fornecer soluções. <br/>Sabia que se você fosse uma super empresa, a propria aws iria fazer reuniões com você</p>
+
+- [Parecido com o que vamos fazer](https://aws.amazon.com/blogs/architecture/building-a-three-tier-architecture-on-a-budget/)
+- [Blog com varias soluções](https://aws.amazon.com/blogs/architecture/page/3/)
+
+<div class="mt-2"></div>
 ```mermaid
 graph TD;
     Fulano -->| | ServidorWeb;
