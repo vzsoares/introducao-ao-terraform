@@ -43,11 +43,14 @@ transition: slide-up
 
 # Exemplo
 
+<Logo />
+
 #### Arquitetura: 
 
-Se voce sabe o problema, pode buscar as soluções na internet facilmente.<br/>A propria aws tem excelentes recursos.
-
+Sabendo o problema fica fácil encontrar a solução.
 <p class="mini">É total interesse do provedor de infra te fornecer soluções. <br/>Sabia que se você fosse uma super empresa, a propria aws iria fazer reuniões com você</p>
+
+<p style="margin:0 !important;">A propria aws tem excelentes recursos.</p>
 
 - [Parecido com o que vamos fazer](https://aws.amazon.com/blogs/architecture/building-a-three-tier-architecture-on-a-budget/)
 - [Blog com varias soluções](https://aws.amazon.com/blogs/architecture/page/3/)
@@ -65,6 +68,8 @@ transition: slide-up
 
 # Exemplo
 
+<Logo />
+
 #### Infraestrutura: 
 
 ```mermaid
@@ -72,13 +77,19 @@ graph TD;
     Fulano --> ECS;
     ECS --> S3;
 ```
-<p class="mini pt-4">ta faltando coisa mas deixa passar</p>
+<p class="mini pt-4">Ná prática com certeza teriam mais componentes...</p>
 
 ---
 
 # Exemplo
 
+<Logo />
+
 #### Terraform
 <p class="mini">Agora sim</p>
 
-#### [AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+Vamos:
+
+- Encontrar nossos recursos e como configurar: [AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+- Configurar o `provider.tf`
+- Subir e testar
