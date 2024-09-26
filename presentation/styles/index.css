@@ -18,13 +18,36 @@
     color: var(--text);
   }
 
-  h1, h3 {
+  h1 {
     color: var(--secondary);
+    margin-bottom: 12px;
+  }
+  
+  h3 {
+    color: var(--primary);
+    margin-bottom: 8px;
   }
 
   h4 {
     color: var(--tertiary);
+    margin-bottom: 12px;
   }
+
+  margin-bottom: 12px;
+}
+
+.mini {
+  font-size: 13px;
+  margin-top: -0.8rem !important;
+  margin-bottom: 4px !important;
+  opacity: 0.5;
+}
+.closer {
+  margin-top: -0.4rem !important;
+}
+
+blockquote {
+  margin-bottom: 8px;
 }
 
 .slidev-page {

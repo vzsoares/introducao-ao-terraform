@@ -6,14 +6,14 @@ transition: slide-up
 
 <Logo />
 
-O Terraform é a nossa ferramenta escolhida justamente por:
+Características Terraform:
 
-- ser mutável
-- utilizar uma DSL declarativa
+- mutável/declarativa
+- possui uma linguagem especializada (HCL)
 - **consolidada**
 - _gratuita_
 - possuir uma grande comunidade
-- ser open source
+- _ser open source_
 
 ---
 transition: slide-up

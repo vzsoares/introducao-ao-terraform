@@ -24,9 +24,7 @@ Infraestrutura como Código
 
 #### **Como funciona?**
 
-- As ferramentas de IAC têm múltiplas implementações, desde **JSON** (CloudFormation), **YAML** (Ansible), **GPL** (Pulumi), até **DSL** (Terraform).
-    
-    Cada uma dessas opções tem suas particularidades, sendo que suas principais diferenças estão entre serem **Declarativas** ou **Procedurais**.
+- As ferramentas de IAC se manifestarão em linguagens (JSON, YAML, HCL, python...) a diferença no comportamento delas será principalmente entre serem **Declarativas** ou **Procedurais**.
 
 </v-click>
 
