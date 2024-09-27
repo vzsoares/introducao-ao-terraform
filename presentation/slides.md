@@ -8,7 +8,6 @@ favicon: /favicon.ico
 fonts:
   sans: Figtree
 
-
 colorSchema: dark
 
 themeConfig:
@@ -34,9 +33,7 @@ mdc: true
 </div>
 
 <!--
-motivação: migração arquitetura interna para terraform
-objetivo: compreender o que é terraform pra que usar e como usar
-alvo: todos da area de ti
+motivação: objetivo entender para que serve e como usar o basico
 -->
 
 ---
